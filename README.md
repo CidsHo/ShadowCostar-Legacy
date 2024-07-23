@@ -18,7 +18,7 @@ Similarly, we have also seen the fun that human agent collaboration can bring in
 
 <p align="center">
     <br>
-    <img src="Pictures/Demo.jpg" width="100%"/>
+    <img src="Pictures/Demo.jpg" width="50%"/>
     <br>
 </p>
 
