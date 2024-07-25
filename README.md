@@ -23,8 +23,9 @@ Similarly, we have also seen the fun that human agent collaboration can bring in
 </p>
 
 <p align="center">
-Demonstration of Shadow Costar Logic.
+Figure: Demonstration of Shadow Costar Logic.
 </p>
+
 To make SC livelier and more comprehensible, we implemented two logic modes:
 1. Script Mode: In this setting, SC adheres to a predefined script, responding to the player based on their ongoing actions. When a player's actions sync with the script, SC acts in kind. However, when a notable divergence from the script occurs or a player becomes inactive, SC employs subtle gestures to gently redirect the player, ensuring the continuity of the performance.
 2. Improvisation Mode: We incorporated fuzzy logic to endow the agent with rudimentary improvisational skills. Recognizing that our target audience may lack uniform expertise in puppetry, script interpretation, or human-agent collaboration the experiences are often inexact and can vary. Fuzzy logic equips SC with the flexibility to exhibit a spectrum of responses in diverse situations, transcending mere binary reactions. For example, if a player introduces an unexpected dramatic element, SC might react with surprise or bewilderment. Or in the case when the player does some movement that is similar to the prescript behavior mode, SC responds to the player with similar and derived actions.
